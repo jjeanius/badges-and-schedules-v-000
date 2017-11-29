@@ -26,5 +26,6 @@ end
     end
     assign_rooms(attendees).each do |room|
       puts room
+      binding.pry
     end
   end
