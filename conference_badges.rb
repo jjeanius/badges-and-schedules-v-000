@@ -2,7 +2,7 @@ require "pry"
 
 def badge_maker(name)
   return "Hello, my name is #{name}."
-  puts badge_maker
+  puts "Hello, my name is #{name}."
 end
 
 def batch_badge_creator(attendees)
