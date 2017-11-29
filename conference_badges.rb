@@ -24,5 +24,5 @@ end
     batch_badge_creator.each do |attendee|
     "#{batch_badge_creator(attendees)}"
     "#{assign_rooms(attendees)}"
-
+    end
   end
